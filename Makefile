@@ -1,4 +1,4 @@
-MASTER  = thesis
+MASTER  = thesis_built
 VERSION = v4.4
 NAME    = Max
 SURNAME = Mustermann
